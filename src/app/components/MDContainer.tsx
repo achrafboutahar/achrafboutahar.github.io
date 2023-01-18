@@ -52,7 +52,7 @@ function MarkdownTableCell(props: { children: ReactNode }) {
 }
 
 function MarkdownCode(props: { children: ReactNode }) {
-  return <Chip size="small" label={props.children?.toString()} />;
+  return <Chip component="span" size="small" label={props.children?.toString()} />;
 }
 
 function MarkdownH1(props: { children: ReactNode }) {

@@ -1,32 +1,67 @@
 # 💻 Skills
 
 ## General Tech Stacks
-- Architecture Design
-- Desktop App Development
-- Web Development (Frontend & Backend)
+- Frontend Development
+- Backend Development
+- Mobile Development
+- DevOps
 
-## Programming languages
-- C# .NET
-- Python
+## Frontend
 - JavaScript/TypeScript
   - React.js
-- T-SQL
-- Go
-- C++
-- Java
-- VB.NET/VBA
+    - Redux
+    - GraphQL
+  - Next.js
+  - Vite.js
+- CSS
+  - Bootstrap
+  - Tailwind
+  - Ant Design
+- UI
+  - Figma
+  - Axure RP
+  - Illustrator
 
-## Databases
-- MSSQL
-- PostgreSQL
-- MySQL
-- SQLite
+## Backend
+- JavaScript/TypeScript
+  - Node.js
+    - Express.js
+    - Redis.js
+    - Socket.io
+- PHP
+  - Laravel
+  - CakePHP
+- Python
+  - Flask
+
+## Mobile
+- JavaScript/TypeScript
+  - React Native
+- JAVA
+  - Android Studio
+
+
+## Programming languages
+- .NET
+  - C#
+  - VB.NET
+- Java
+  - J2EE
+
+## DevOps
+- Docker / docker-compose
+- Gitlab CD/CD
+- Nginx
+- Apache VHost
+- SSL Certificat
 
 ## Cloud
+- DigitalOcean / Linode
+- Google Clound Platform (GCP)
 - Azure
-- GCP
 - Heroku
-- Render
 
 ## Vcs
 - Git
+- Github
+- Github

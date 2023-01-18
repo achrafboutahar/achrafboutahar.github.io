@@ -3,7 +3,7 @@ import { Box, Link, Paper, Tooltip } from "@mui/material";
 import LightModeOutlinedIcon from "@mui/icons-material/LightModeOutlined";
 import DarkModeOutlinedIcon from "@mui/icons-material/DarkModeOutlined";
 import { VscFiles, VscSettingsGear } from "react-icons/vsc";
-import { BiGitBranch } from "react-icons/bi";
+// import { BiGitBranch } from "react-icons/bi";
 import Divider from "@mui/material/Divider";
 import { links } from "../pages/links";
 
@@ -68,7 +68,7 @@ export default function Sidebar({
             <VscFiles />
           </Box>
         </Box>
-        <Tooltip title="Source of this project" arrow placement="right">
+        {/* <Tooltip title="Source of this project" arrow placement="right">
           <Link
             target="_blank"
             href={"https://github.com/noworneverev/react-vscode-portfolio"}
@@ -94,7 +94,7 @@ export default function Sidebar({
               </Box>
             </Box>
           </Link>
-        </Tooltip>
+        </Tooltip> */}
 
         <Divider sx={{ m: 0.5 }} />
 

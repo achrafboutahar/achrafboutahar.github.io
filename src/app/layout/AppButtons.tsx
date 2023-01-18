@@ -117,7 +117,9 @@ export default function AppButtons({
           >
             <VscMarkdown />
           </Box>
-          {name}
+          <span style={{ fontSize: "1rem" }}>
+            {name}
+          </span>
           <Box
             component={Paper}
             sx={{
